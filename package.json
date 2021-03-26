@@ -1,0 +1,17 @@
+{
+  "name": "marvel-comics",
+  "version": "1.0.0",
+  "description": "Sript para buscar os 15 primeiros quadrinhos do wolverine e salvar em um csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo da Silva Lima",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "json2csv": "^5.0.6",
+    "md5": "^2.3.0",
+    "moment": "^2.29.1"
+  }
+}
